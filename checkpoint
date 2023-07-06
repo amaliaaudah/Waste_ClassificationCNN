@@ -1,0 +1,2 @@
+model_checkpoint_path: "waste_classification_model_checkpoint"
+all_model_checkpoint_paths: "waste_classification_model_checkpoint"
